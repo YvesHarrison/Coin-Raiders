@@ -1,5 +1,5 @@
 # Coin Raiders
-Multiplayer Competitive Web Game to help children to learn how to code through team collaboration. There are 2 teams of 2 and the ultimate goal is to design a path to collect as many coins as possible. The team that collected the most coins wins. This project was built at the Duckhacks 2019 Hackathon.
+Multiplayer Competitive Web Game to help children to learn how to code through team collaboration. There are 2 teams of 2 and the ultimate goal is to design a path to collect as many coins as possible. The team that collected the most coins wins.
 
 ## Dependencies
 `node.js v.11.8.0`
